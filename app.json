@@ -1,6 +1,6 @@
 
 {
-  "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
+  "name": "𝐌ᴀʜɪʀᴜ 𝐌ᴜsɪᴄ 𝐁ᴏᴛ",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://telegra.ph/file/b37803a767b15e939513d.png",
   "keywords": [
@@ -15,17 +15,17 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "22317880",
+      "value": "26821536",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "5e341628f7176989bcffb2b8fc22445f",
+      "value": "6b6ce2d7289857fdb35d435e5b43041d",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "",
+      "value": "7579519786:AAFVV5YHU1aMqLu1Ej_yR6Ui7gvAXM1LrRA",
       "required": true
     },
     "MONGO_DB_URI": {
@@ -35,7 +35,7 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-      "value": "6018803920",
+      "value": "7697740963",
       "required": true
     },
    "SUPPORT_CHANNEL": {
@@ -80,22 +80,22 @@
     },
     "START_IMG_URL": {
       "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/0yjg2c.jpg",
       "required": false
     },
     "PING_IMG_URL": {
       "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/4anln9.jpg",
       "required": false
     },
     "STATS_IMG_URL": {
       "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-      "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
+      "value": "https://files.catbox.moe/j2kpzf.jpg",
       "required": false
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1002392274240",
+      "value": "-1002690969505",
       "required": true
     }
   },
