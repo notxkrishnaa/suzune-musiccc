@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","slayer1237")
+OWNER_USERNAME = getenv("OWNER_USERNAME","sexyZyrex")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "suzune_probot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "MahiruMusicBot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹Suzune")
+BOT_NAME = getenv("BOT_NAME" , "˹Mahiru shina")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002392274240))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002690969505))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6018803920))
+OWNER_ID = int(getenv("OWNER_ID", 7697740963))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/b61227af05544deb76a34.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/0yjg2c.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/7bb907999ea7156227283.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/4anln9.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/13afb9ee5c5da17930f1e.png"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/13afb9ee5c5da17930f1e.png"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/q48gzd.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/j2kpzf.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/q48gzd.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/q48gzd.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/q48gzd.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/4anln9.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/4anln9.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/j2kpzf.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/j2kpzf.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/j2kpzf.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
