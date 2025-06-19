@@ -9,16 +9,16 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("26821536"))
-API_HASH = getenv("6b6ce2d7289857fdb35d435e5b43041d")
+API_ID = int(getenv("API_ID"))
+API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("7123514555:AAH_k9B4AJZuQXao5EFga5EEfqskWgw1c-E")
+BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Youryrex")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Notxkrishna")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Mahiru_probot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Akane_Sakuramori_Music_Bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "𝐌ᴀʜɪʀᴜ 𝐌ᴜsɪᴄ 𝐁ᴏᴛ")
+BOT_NAME = getenv("BOT_NAME" ,"𝐀ᴋᴀɴᴇ 𝐒ᴀᴋᴜʀᴀᴍᴏʀɪ ꭙ˼ 𝐌ᴜsɪᴄ ֟፝")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "ll_SEXY_DESTROYER_KING_ll")
 # ---------------------------------------------------------
